@@ -16,7 +16,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '只讲实用',
-  HEO_HERO_TITLE_2: '&emsp;&emsp;不谈技术',
+  HEO_HERO_TITLE_2: '&ensp;&ensp;不谈技术',
   HEO_HERO_TITLE_3: 'XiaoniaoAI',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: 'XiaoniaoAI 分享实用经验',
